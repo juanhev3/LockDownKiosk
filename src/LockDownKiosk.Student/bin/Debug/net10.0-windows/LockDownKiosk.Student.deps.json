@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LockDownKiosk.Student/1.0.0": {
+        "dependencies": {
+          "LockDownKiosk.Shared": "1.0.0"
+        },
+        "runtime": {
+          "LockDownKiosk.Student.dll": {}
+        }
+      },
+      "LockDownKiosk.Shared/1.0.0": {
+        "runtime": {
+          "LockDownKiosk.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LockDownKiosk.Student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LockDownKiosk.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

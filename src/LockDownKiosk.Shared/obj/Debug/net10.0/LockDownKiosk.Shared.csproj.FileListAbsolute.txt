@@ -1,0 +1,11 @@
+C:\Users\juanh\LockDownKiosk\src\LockDownKiosk.Shared\bin\Debug\net10.0\LockDownKiosk.Shared.deps.json
+C:\Users\juanh\LockDownKiosk\src\LockDownKiosk.Shared\bin\Debug\net10.0\LockDownKiosk.Shared.dll
+C:\Users\juanh\LockDownKiosk\src\LockDownKiosk.Shared\bin\Debug\net10.0\LockDownKiosk.Shared.pdb
+C:\Users\juanh\LockDownKiosk\src\LockDownKiosk.Shared\obj\Debug\net10.0\LockDownKiosk.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanh\LockDownKiosk\src\LockDownKiosk.Shared\obj\Debug\net10.0\LockDownKiosk.Shared.AssemblyInfoInputs.cache
+C:\Users\juanh\LockDownKiosk\src\LockDownKiosk.Shared\obj\Debug\net10.0\LockDownKiosk.Shared.AssemblyInfo.cs
+C:\Users\juanh\LockDownKiosk\src\LockDownKiosk.Shared\obj\Debug\net10.0\LockDownKiosk.Shared.csproj.CoreCompileInputs.cache
+C:\Users\juanh\LockDownKiosk\src\LockDownKiosk.Shared\obj\Debug\net10.0\LockDownKiosk.Shared.dll
+C:\Users\juanh\LockDownKiosk\src\LockDownKiosk.Shared\obj\Debug\net10.0\refint\LockDownKiosk.Shared.dll
+C:\Users\juanh\LockDownKiosk\src\LockDownKiosk.Shared\obj\Debug\net10.0\LockDownKiosk.Shared.pdb
+C:\Users\juanh\LockDownKiosk\src\LockDownKiosk.Shared\obj\Debug\net10.0\ref\LockDownKiosk.Shared.dll

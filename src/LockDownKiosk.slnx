@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="LockDownKiosk.Shared/LockDownKiosk.Shared.csproj" />
+  <Project Path="LockDownKiosk.Student/LockDownKiosk.Student.csproj" />
+  <Project Path="LockDownKiosk.Teacher/LockDownKiosk.Teacher.csproj" />
+  <Project Path="LockDownKiosk.Tests/LockDownKiosk.Tests.csproj" />
+
+</Solution>
